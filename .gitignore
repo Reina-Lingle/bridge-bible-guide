@@ -1,0 +1,12 @@
+.env
+.env.*
+!.env.example
+dist/server/
+.key-setup/
+
+node_modules/
+.sites-runtime/
+.wrangler/
+.vinext/
+dist/
+.next/
