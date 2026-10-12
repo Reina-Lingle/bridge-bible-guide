@@ -1,3 +1,9 @@
+## Live website
+
+[Open B.R.I.D.G.E. Bible Guide](https://bridge-bible-guide-reina.reinalareina.chatgpt.site/)
+
+Explore the six-step Bible study workspace and add personal notes.
+
 # vinext-starter
 
 A clean full-stack starter running on [vinext](https://github.com/cloudflare/vinext), with optional Cloudflare D1 and Drizzle support.
